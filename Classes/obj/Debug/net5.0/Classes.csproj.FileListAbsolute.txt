@@ -1,0 +1,16 @@
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.exe
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\bin\Debug\net5.0\Classes.pdb
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.pdb
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
