@@ -1,0 +1,16 @@
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.exe
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.deps.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\ref\Enums.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\bin\Debug\net5.0\Enums.pdb
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\ref\Enums.dll
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.pdb
+D:\MyRepos\CodeWithMoshTraining\CSharpTraining\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
